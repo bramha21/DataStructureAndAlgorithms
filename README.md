@@ -42,7 +42,7 @@ This is collection of java code of different Data Structures and Algorithms
 * Insertion Sort
 * Selection Sort
 * Bubble Sort
-* Merge Sort
+* <s>Merge Sort</s> (Divide and Conquer) - **Done** **(TODO : Add Comments)**
 * Quick Sort
 
 * Binary Search
